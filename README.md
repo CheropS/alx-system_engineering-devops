@@ -1,1 +1,1 @@
-my first readme
+#details of the questions and answers
