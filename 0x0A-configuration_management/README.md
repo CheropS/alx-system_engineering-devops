@@ -7,15 +7,19 @@ It also provides centralized point of control using Puppet Master
 Task execution order is non-sequential
 ## Installing Puppet for Ubuntu 20.04 VM 
 $ apt-get install -y ruby=1:2.7+1 --allow-downgrades
+
 $ apt-get install -y ruby-augeas
+
 $ apt-get install -y ruby-shadow
+
 $ apt-get install -y puppet
 
 ### Installing puppet-lint
 $ gem install puppet-lint
 
 ## How to install and Run the project 
-Git clone :
+Git clone : https://github.com/CheropS/alx-system_engineering-devops/tree/master/0x0A-configuration_management
+
 Cd 0x0A-configuration_management
 
 ## How to use the project
