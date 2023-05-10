@@ -4,7 +4,7 @@
 The directory contains commands of how to get API requests from different websites
 
 ## Files 
-[0-subs.py] (https://github.com/CheropS/alx-system_engineering-devops/blob/master/0x16-api_advanced/0-subs.py)
+[0-subs.py] (https://github.com/CheropS/alx-system_engineering-devops/blob/master/0x16-api_advanced/0-subs.py/ "0-subs.py title")
 
 This file contains a code for writing a function that queries the Reddit API and returns the number of subcribers. 
 If an invalid subreddit is given, the function should return 0.
